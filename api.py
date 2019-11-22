@@ -1,24 +1,5 @@
 # @author Abhay Rastogi ,Shubham Rajput
-# @brief   create record of admin and submit data in firebase.
-# @copyright
-# Copyright (c) 2019 Creaxt Innovations Private Limited, Inc.
-# All Rights Reserved
-# @copyright
-# Copyright © Creaxt Innovations Pvt. Ltd. 2018
-# Creaxt Inc. CONFIDENTIAL
-#  __________________
-#   [2019] - [2020] Creaxt Incorporated
-#   All Rights Reserved.
-# NOTICE:  All information contained herein is, and remains
-# the property of Creaxt Incorporated and its suppliers,
-# if any.  The intellectual and technical concepts contained
-# herein are proprietary to Creaxt Incorporated
-# and its suppliers and may be covered by Indian Patents,
-# patents in process, and are protected by trade secret or copyright law.
-# Dissemination of this information or reproduction of this material
-# is strictly forbidden unless prior written permission is obtained
-#  from Creaxt Incorporated.
-#  Because we LOVE CODING.
+
 
 from aiohttp import web
 import bson.json_util  as json_util
